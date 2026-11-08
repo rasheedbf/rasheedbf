@@ -44,7 +44,7 @@ Elementi di riconoscibilità da ripetere in ogni video:
 | Serie | Contenuto | Perché funziona |
 |---|---|---|
 | **A. "What if…?"** | *E se Ferrari facesse un SUV off-road?* *E se la Fiat Panda fosse una hypercar?* | Curiosità e discussione nei commenti |
-| **B. Rinascite** | Auto leggendarie rifatte nel 2030: Lancia Stratos, Alfa 33 Stradale, Renault 4L, Mercedes G-Class anni 80 | Nostalgia e orgoglio nazionale |
+| **B. Rinascite** | Auto leggendarie rifatte nel 2030: Lancia Stratos, Alfa Montreal, Citroën 2CV, Mercedes G-Class anni 80 (meglio auto che il marchio non ha già rifatto) | Nostalgia e orgoglio nazionale |
 | **C. Il pubblico disegna** | I follower scelgono marchio, colore e stile nei commenti o nei sondaggi, poi tu crei l'auto | Trasforma gli spettatori in follower e porta commenti |
 | **D. Dal schizzo al render** | Matita → 3D → render → auto "in strada" con l'AI | Mostra la tua abilità e ti rende un designer credibile |
 | **E. Nazioni e città** | *Una supercar ispirata al Marocco / a Venezia / a Dubai / a Tokyo* | Fa arrivare i video in paesi diversi |
@@ -175,9 +175,9 @@ Mandami ogni domenica i numeri: aggiorno il piano.
 |---|---|---|---|
 | 1 | **"Ferrari never built this…"**: Ferrari SUV off-road (A) | **"Comment a brand, I'll design it"** (C) | **Lancia Stratos 2030** (B) |
 | 2 | Supercar **"Atlas"** ispirata al Marocco (E) | Primo concept chiesto nei commenti (C) | **Schizzo → render** di una hypercar RS (D) |
-| 3 | **Fiat Panda 1000 HP** (A) | **Alfa Romeo 33 Stradale 2030** (B) | **"Rate this 1–10"**: hypercar RS nera e arancio |
+| 3 | **Fiat Panda 1000 HP** (A) | **Alfa Romeo Montreal 2030** (B) | **"Rate this 1–10"**: hypercar RS nera e arancio |
 | 4 | Supercar **"Venezia"** (E) | **Lamborghini pickup** (A) | Secondo concept chiesto dai follower (C) |
-| 5 | **Renault 4L elettrica 2030** (B) | **"Wait for the doors…"**: porte ad ala di gabbiano (D) | **Italy vs Morocco**: due supercar a confronto (E) |
+| 5 | **Citroën 2CV 2030** (B) | **"Wait for the doors…"**: porte ad ala di gabbiano (D) | **Italy vs Morocco**: due supercar a confronto (E) |
 | 6 | **Porsche 911 off-road da deserto** (A) | **Dietro le quinte**: come creo un concept in 60s (D) | **"Which one would you drive? 1, 2, 3"** |
 | 7 | **Rifai il video migliore della settimana** con un nuovo hook | Risposta video al commento migliore (C) | Riepilogo "La mia prima settimana come RS" |
 
